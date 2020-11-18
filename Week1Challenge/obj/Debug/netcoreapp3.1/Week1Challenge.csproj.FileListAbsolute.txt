@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.AssemblyInfo.cs
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.deps.json
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.runtimeconfig.json
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\New folder\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.genruntimeconfig.cache
